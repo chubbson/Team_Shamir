@@ -1,0 +1,90 @@
+Punkt 6
+##################################################################################################
+ZEHNTE SCHWEIZER BIG BROTHER AWARDS
+
+Bis Ende August gingen beim Organisationskomitee ueber 70 Vorschlaege ein.
+
+Aus der Kandidaten-Auswahl der Jury gingen folgende Sieger hervor:
+
+Kategorie STAAT:
+
+- Dienst "Ueberwachung Post- und Fernmeldeverkehr" (UePF) (Staats-Award)
+  - Verpflichtung aller Telco-Firmen und Provider, Verbindungsdaten während
+    6 Monaten zu speichern. => Wer kommuniziert mit wem (Email, Telefon,..) von woher?
+  - Speicherung der Inhalte auf Anfrage
+  - Echtzeitüberwachung der kompletten Internet-Kommunikation 
+
+Kategorie BUSINESS (hatte am meisten Kandidaten):
+
+- Swisscom (Business-Award)
+  - Speicherung der VDSL/ADSL-Router-Konfiguration mit WLAN-Details werden bei Swisscom gespeichert
+    - Folge daraus: Swisscom-Mitarbeiter wie auch polizeiliche Behörden haben Zugriff darauf
+
+Kategorie ARBEITSPLATZ:
+
+- Berufsbildungsschule Winterthur (Arbeitsplatz-Award)
+  - Aufforderung zur Denunziation der Schüler, die Littering betreiben oder Drogen konsumieren
+
+Kategorie LEBENSWERK:
+
+- Deltavista (Lebenswerk-Award)
+  - Marktführer im Bereich kommerzieller Sammlung von privaten (Kunden-) Daten
+
+Gewinner des Publikumspreises (für den Einsatz GEGEN Überwachung):
+
+- Studentengewerkschaft CUAE
+  - Widerstand gegen fremdenpolizeiliche Kontrolle ausländischer Studenten
+
+Punkt 8
+##################################################################################################
+CRYPTOCRIMINALS, A PUBLIC CONCERN
+
+Die Entwicklung der Kriminalität, insbesondere organisierten und der Computerkriminalität, welche 
+sich nicht gegenseitig ausschliessen, hat für die Gesellschaft sehr weit reichende Folgen, da 
+deren Einfluss immer grösser wird und dadurch die Grenzen der Legalität fortwährend verwischt werden.
+
+Um diesen Tendenzen zu entgegnen, brauchen die Judikative und die Exekutive bessere subsidiäre
+Mittel, die der technischen Entwicklung gerecht werden und die Verfolgung der schwerwiegenden
+Kriminalität verbessern sollen.
+
+Die Erfahrung zeigt, dass Kriminelle und kriminelle Organisationen verschiedene Bedürfnisse
+an die moderne Technologie haben, abhängig vom Bereich, in dem sie operieren oder den 
+Gütern/Dienstleistungen, die sie anbieten:
+
+  Während für die organisierte Kriminalität der Informationsaustausch von fundamentaler Bedeutung
+  ist, wird in der Computerkriminalität eher wert auf eine sichere Datenspeicherung gelegt.
+  Auch andere Formen der Kriminalität nutzen die technologischen Möglichkeiten in der einen 
+  oder anderen Form.
+  
+Allen gemeinsam ist die Absicht, ihre Aktivitäten vor polizeilichen Ermittlungen zu verstecken.
+Dafür verwenden sie unterschiedliche Verschleierungstaktiken, im engeren Sinne kryptographische Mittel,
+die heutzutage eine wesentlich grössere Rolle spielen als vor 20-30 Jahren.
+
+Früher wurden Telefongespräche mit abgesprochenen Codes verschleiert, so dass der wahre Inhalt des
+Gesprächs nicht erkannt werden konnte. Diese Art der Verschleierung ist jedoch nicht sehr sophistiziert,
+weshalb man eher auf 'unverschlüsselte' Gespräche mit öffentlichen Telefonen setzte, oder mit der Entwicklung von
+Mobiltelefonen eine grosse Anzahl unregistrierter oder geklauter Geräte gleichzeitig nutzte und so
+das Abhören der Gespräche deutlich erschweren konnte.
+
+Allgemein ist das Abhören von Telefon, Email etc. die am meisten verwendete technische Methode, um 
+kriminellen Machenschaften auf den Grund zu gehen, oder, fast gleichwertig, die Analyse des daraus 
+resultierenden Informationsverkehrs, der auch ersichtlich ist, wenn die Kommunikation verschlüsselt 
+stattfindet, und manchmal mehr nützliche Informationen liefert als der Inhalt der Gespräche.
+
+Der Nachteil des technologischen Fortschritts ist, dass auch Individuen mit unehrlichen Absichten
+sich dies zu Nutze machen. Das senkt wiederum die Chancen der Ermittlungsbehörden, beim Abhören
+an verwertbare Informationen zu kommen.
+Darum werden heute vermehrt die Telekommunikationsfirmen verpflichtet, auf eigene Kosten
+eine Infrastruktur aufzubauen, die Schnittstellen für die teilweise sehr weit gehende
+Überwachung (z.B. DPI) zur Verfügung stellt und den Ermittlern sozusagen die Informationen
+auf dem Tablett serviert.
+Wenn die Kommunikation jedoch End-zu-End-verschlüsselt ist, ist dieser ganze Aufwand vergeblich,
+zumindest so lange, wie man ganze Zahlen nicht effizient faktorisieren kann.
+
+Die Analyse des Informationsverkehrs erweist sich als aussagekräftiger als die Analyse des Inhalts, der meist
+nicht mehr so relevant für die Aufklärung, weil der Fall schon hinreichend durch andere Evidenzen
+geklärt ist.
+
+Darum stellt sich die Frage, ob das technologische 'Wettrüsten' der Ermittlungsbehörden mit den
+kriminellen Organisationen wirklich so eine grosse Bedeutung für die Aufklärung von Delikten hat
+oder ob nicht auch andere Zwecke damit beabsichtigt werden.
