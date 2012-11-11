@@ -1,0 +1,194 @@
+Hauridav
+4. Terrorist Finance Tracking Program
+
+Treasury's Terrorist Finacence Program's
+Access to Information Held by the 
+*S*ociety for *W*orldwide *I*nterbank *F*inancial 
+*T*elecomunication (SWIFT)
+
+SWIFT- Eine Brüssel Basierende organisation geführt von Banken aus vielen Staaten. 
+Es dient als informations verteiler für internationalen zahlungsverkehr. 
+Es hält die namen, addressen, Kontonummern Daten der (sender & receiver) von internationalen 
+Zahlungen zwischen Banken und Sicherheits Firmen.
+Die dort zwischengespeicherten Informationen isdt durch das Treasury's Terrorist Finace Program's frei zugänglich. 
+(Wohl nicht jedem, aber den Staaten und deren Organisationen)
+
+What is Treasury’s authority for access to SWIFT information?
+"Treasury cites Executive Order 13224 “Blocking Property and Prohibiting Transactions With
+Persons Who Commit, Threaten to Commit, or Support Terrorism." 
+Dieser Artikel 13224 wurde von Präsident Bush am 23. Sept 2001 veröffentlicht. 
+Dies räumt dem Präsidenten weitreichende Befugnisse ein über das Eigernum oder Transaktionen 
+einschlieslich Transfer von Kredit oder Zahlungen durch Banken und Wertpapiere oder andere 
+Verplfichtungen einnzuschränken. Dafür muss der Präsident den Nationalien Notstand 
+auf der Grudelage der Existent eines aussergewöhnlichen Bedrohung für dei nationale Sicherheit der USA, 
+Aussenpolitik oder Wirtschaft aussrufen. 
+Dies erfordert eine Zusammen arbeit der Statlichen organiationen sich mit anderen Ländern zu 
+koordinieren, dies geschieht durch bilaterale udn multilaterale Vereinbarungen und anere 
+Vorkehrungen zur Verhütung und Bekämpfung von Terrorakte.
+
+What privacy protections apply to records of financial transactions?
+Die Vereinigten Staaten haben kein algemein geltendes Gesetz für eine finanzielle Prvatsphäre. 
+Die Verfassung sieht keinen Schutz gegen sttatliche Zugriff auf Finanzinformationen für die 
+Weitergabe and Dritt Parteien vor. 
+
+What other federal laws apply to tracking terrorist finances?
+- The Bank Secrecy Act of 1970 (BSA) 
+Dieser Ermächtigt den Finanzminoister vorschriften zu verschreiben welche sicherstellen 
+das angemmessene aufzeichnungen zu Transaktionen vorhanden sind. 
+Welche einen hohen Grad an Nutzen für die Straf-, Steuer oder Ermittlungsbehörden haben. 
+- Title III of the USA PATRIOT Act
+Etwa das gleiche wie (BSA)
+- The Suppression of the Financing of Terrorism Convention Implementation Act
+Dies umfasst ein internationales übereinkommen zur Bekämpfung von 
+(Finanzierung von Terrorismus, zB durch bereitstellung von Mittel um 
+terrorsistische Aktivitäten zu unterstützen), unabhängig davon ob 
+eine Straftat begangen wurde in den Vereinigten Staaten oder der Ankläger 
+ein Bürger der Vereinigten Staaten ist. 
+ 
+Is the publication of classified information a criminal act?
+(Ist die Veröffentlichung von Verschlusssachen ein krimineller Akt?)
+Dies hängt von der Definition der Kategorie der Information ab ob diese
+durch ein Gesetz geschütz ist und mit Vorsatz veröffentlicht wurde. 
+Informationen welche durch den Staat der Öffentlichkeit (veröffentlicht)
+wurde, fällt nicht unter dieses Verbot, da das öffentliche Interresse 
+die schlechten absichten negiert. 
+
+
+
+5. DOES BIG BROTHER WANT TO WATCH? By Bruce Schneier
+Seit den Terroristischen anschlägen 2001 fordert die Bush Regierung die Welt auf
+einem Standert für maschinenlesbare Pässe zuzustimmen. 
+Die Zukünftigen Pässe sollen einen Computerchip besirten, welche alle relevanten 
+Daten speichert. Dies ermöglicht den Beamten schnell und einfach den Pass auslzulesen. 
+Dies ist eine vernüftige anforderung und würde die Pass-Technologi in das 21 Jahrundert befördern. 
+Aber die Bush Regierung setzt auf Radia Frequency Identification RFID. Sowohl für 
+US als auch ausländische Pässe. 
+Dies wiederum ist eine eher Schlechte Idee.
+
+Diese Chiss können aus Entfernung  ohne physische Berürung einfach ausgelsen werden. 
+Leider können RFID-Chips von jeglichen Lesegeräten ausgelesen werden nicht nur derer 
+der Passkontrolle. Daraus resultiert das Resende welche RFID Pässe rumtragen 
+ihre Identität ohne ihr Wissen jeden der es Interessiert bereitstellen. 
+Dies bedeutet, dass Taschendiebe, Entführer und Terroristen sehr schnell - und 
+heimlich- Amerikaner oder andere Staatsangehörige der teilnahmsstaaten aus einer 
+Menschenmenge einefach lokalisieren können. 
+Dies ist eine klare Bedrohung für die Privatsphäre und persönliche SIcherheit und 
+deshalb ist es keine gute Idee. 
+Vertreter der Systeme behaupten das man die Chips nur aus wenigen Centimeter auslesen kann. 
+Dies ist eine rein spekulierte naive Behauptung. Tests haben ergeben das RFID-Chips
+aus 20 Meter entfernung immer noch gelesen werden können. Und Verbesserungen in der 
+Techologie ist unvermeidlich. 
+ 
+Die Bush-Regierung hat bewusst und unbegründet für diese Technologie ausgesprochen. 
+Wenn es sich um einen Kontaktchip gehandelt hätte (Physischer Kontakt notwendig) könnte 
+die Wahl sinn machen. 
+Leider gibt es nur eine mögliche Ursache für ihren RFID entscheid, die Bush-Regierung möchte 
+Menschen in grossen massen einfach identifizieren können. 
+
+Normalerweise bin ich sehr vorsichtig bevor ich (Bruce Schneier) so finstere Motive den
+Behörden zuschrreibe. 
+Inkompetent ist die Norm und Böswilligkeit viel seltener. Aber dies scheint ein klarer
+Fall der Bush-Regiurung zu sein, ihre eigenen Interressen über die Sicherheit und
+den Schutz der Privatsphäre seiner Bürter zu stellen. Und dies dann zu leugnen. 
+
+Bruce Schneier ist ein Sicherheits-Technologi experte und der Autor von 
+"Beyond Fear: Thinking Sensibly About Security in an Uncertain World."
+
+
+10: Big Brother is a Sissy (Point: Marcus Ranum / Counterpoint: Bruce Schneier)
+Point: Marcus Ranum
+
+Eine Menge Leute haben Angst das durch RFID Bösewichte unsere Pässe Lesen und Organisationen 
+in der Lage sind unseren Aufenthaltsort ohne unser wissen zu bestimmen, wenn wir RFID getagged sind. 
+Sie sprechen immer vom Gewicht der Risiken, das dies alles mit sich bringt. 
+Aber seien wir Realistisch. Wie gross ist die Warscheinlichkeit über einen RFID Sniffer die 
+Privatdaten zu verlieren im Gegensatz zu den Daten die von Bundesbehörden von Laptops geleaked werden?
+Wie gross ist die Warscheinlichkeit das Big Brother dich Verfolgt gegenüber der, dass jedes Hotel (Welche
+alle nach einer ID Fragen) diese Daten über ihre Gäste einer Bundes agentur weitergibt?
+Nicht das sie das Tut!  Dass weiss ich nicht, nur eine These. 
+
+Ein weiterer unverstäntlicher Punkt ist das E-Voting Problem. Ich bin nicht besorgt dasrüber das jemand 
+meine Wahl in der E-Voting-Maschine stieht oder gar Manipuliert. 
+Man wird es wie immer auf die traditionelle Weise versuchen die Wahlen zu beeinflussen. Durch manipulation 
+der Öffentlicher Wahrnehmung mit rieseigen teuren Medien Kampagnen. 
+Ehrlich gesagt würde eine manipuliert Wahl (E-Voting manipuliert) dem Steuerzaher eine Menge Geld sparen. 
+
+Warm sich über Big Brother sorgen machen das diese ein Nationales ID System einführt, wenn Sie sich sorgen 
+könnten wieso das Departments of Homeland Security Millionen von $ in den sand gesetzt hat beim versuch
+ein Biometrisches Tage Worker Pass system für die Grente zu Mexiko zu errichten. 
+
+Warum Sich sorgen machen das Big Brother riesige Datenbanken über und hällt, 
+wenn man sich sorgen könnte wieso ein Milliarten-Dollar-Ausfall jeahrlich besteht, weil das 
+FBI an Virtuellen Fallakten arbeitet?
+
+Ich werde mich erst über Big Brother Sorgen wenn die Bundesregierung beginnt die Leute von 
+Amazon, Google, Ebay und Yahoo anzuheuern. 
+
+
+11: Is Big Brother a Big Deal? 
+(CounterPart: Bruce Schneier)
+
+Big Brother ist nicht mehr das was es einmal war. Georg Orwell extrapolierte seinen totalitären Staat 
+aus den 1940er Jahrn. Die heutige Informationsgesellschaft siet nicht mehr wie Orwels welt aus.
+Datenerhebung in 1984 war Absicht, heute ist es eine unabsichtige. In der Informationsgesellschaft 
+generieren wir Daten natürlich. In Orwells welt, waren die Menschen anonym. Heute hinterlassen wir 
+überal unseren Digitalen Fussabdruck. 
+
+1984 Polizeistaat war zentralisiert, heute ist sie dezentralisiert. 
+Ihre Telefongesellschaft weiss mit wem Sie Sprechen, Ihre Bank wo sie einkaufen. 
+Ihr ISP kann ihre E-Mails lesen, Ihr Handy kann ihre bewegungen Folgen. Ihr Supermakrt überwacht Sie 
+in Ihrem Kaufverhalten. Es gibt keine Regierungseinheit, welche all diese Informationen zusammen bringt. 
+Dies muss aber nicht sein.
+Wie Neal Spephenson sagte, die Bedrohung it nicht mehr Big Brother, sondern Tausende von Little Brothers.
+
+Nach 1984 Stil, Polizeistaaten benötigten eine menge Leute, Ost Deutschland beschäftigte pro 66 einwohner 
+einen Informatnetn. Heute gibt es keinen Grund mehr um jemanden wen anders beobachten zu lassen. 
+Diese Arbeit können alles Computer uns abnehmen. 
+
+1984er Polizeistaaten waren sehr Teuer. Heute wird der Datenspeicher zunehmend billiger. 
+Wenn einige Daten zu Teuer sind um diese heute zu Speichern, wird es in der Zukunft möglich sein. 
+
+
+12: Ist Verschlüsselung Schuld?
+(Torsten Kleinz: 13.09.2001) 
+
+Stunden nach dem Anschlägen haben Beamte des FBI bei Maildiensten wie Hotmail und InternetProvidern verlangt 
+ihr Mailfiltersystem zu installieren. 
+Kryptografie wird immer öfter in Verbindung mit Terrorismus genann. 
+
+Bei dem Geburtstag des Chaos Computer Club kommt das Gespräch auf
+informationelle Selbstbestimmung, den Einsatz von Verschlüsselungsprogrammen zur
+Wahrung der Privatsphäre
+Keine Frage: der
+Terroranschlag auf die USA wird Auswirkungen auf die Freiheit im Netz haben.
+Steven Levy erörtert die These in einem Artikel offensiv: "Did Encryption Empower
+These Terrorists?" - Waren die Anschläge nur mit Hilfe von Verschlüsselung
+möglich?
+
+Kongressmitglieder haben angekündigt, dass sie überprüfen wollen, ob schärfere
+Überwachungsmaßnahmen Anschläge wie die eben geschehenen verhindern könnten.
+Der demokratische Senatsabgeordnete Patrick Leahy, Vorsitzender des Senate
+Judiciary Committee, und der republikanische Abgeordnete Jon Kyl betonten gestern,
+dass die Gesetzgeber dringend darüber nachdenken müssten, ob die
+Überwachungsmöglichkeiten verstärkt werden sollten.
+
+Die Möglichkeiten sind vielfältig. Es gibt frei erhältliche Verschlüsselungsprogramme
+wie Pretty Good Privacy (PGP). Textbotschaften können mittels Steganografie in
+Bilddateien versteckt werden. Anonymizer verschleiern den Ursprung einer
+Botschaft. Aber auch ein gut gewählter Wörtercode könnte durch das Netz der
+Geheimdienste schlüpfen, die offenbar völlig von den Ereignissen überrascht wurden.
+So könnte man die weltweite Auktionsplattform Ebay für versteckte Botschaften
+verwenden, oder auch über Rezensionen bei Amazon. Terroristen könnten sich sogar
+mit der Chat-Funktion eines Multi-User-Spiels verständigen
+
+Schon seit Jahren behandeln die USA Verschlüsselungstechnologien wie
+Kriegsmaterial. Die sichersten Verfahren dürfen nicht exportiert werden. So konnte
+lange Zeit der Quelltext von PGP nur in Buchform nach Europa eingeführt werden.
+Dort wurde er dann eingescannt und neu kompiliert. Nur so konnten die strengen
+Exportbeschränkungen umgangen werden.
+
+Gerade hatte sich wieder ein Bewusstsein für die Datenschutz gebildet. Es bleibt
+abzuwarten, ob dieses Bewusstsein die Aufregungen nach dieser "Kriegserklärung"
+übersteht, oder ob totale Überwachung als das kleinere Übel gesehen wird.
+
+
