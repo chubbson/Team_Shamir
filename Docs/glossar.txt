@@ -1,0 +1,69 @@
+Big Brother
+
+Der Begriff „Big Brother“ steht als Synonym für den Überwachungsstaat
+und wurde von George Orwell in seinem Roman "1984" beschrieben. Er beschreibt einen 
+Staat, der tief in die Privatsphäre seiner Bürger eingreift. 
+Dieser Begriff hat heute insofern eine Bedeutung, dass es viele staatliche oder
+private Institutionen gibt, die fragwürdige - legale oder illegale - Eingriffe in die Privatsphäre von 
+Personen vornehmen.
+
+Biometrischer Reisepass
+
+Reisepass, der biometrische Informationen (Fingerabdruck, DNA, Iris) zu dem Halter auf einem Chip
+gespeichert hat. Die Einführung wurde durch die Drohung der USA Ende
+2004 beschleunigt mit der Drohung, die Visumspflicht für Europäische Staaten wieder
+einzuführen, die über keinen solchen Pass verfügten. Damit ist die eindeutige Identifizierung
+von Personen möglich, es besteht aber auch Missbrauchspotential, weil die Technologie noch
+nicht ausgereift ist.
+
+Bundestrojaner
+
+Dabei handelt es sich um einen Computer-Trojaner im technischen Sinne, der seinen 
+Namen erhalten hat, als sein Gebrauch das erste Mal öffentlich und "offiziell" wurde.
+Das Bundeskriminalamt von Deutschland (BKA) hat ihn in Auftrag gegeben, um 
+so ein besseres Mittel für die Telekommunikations-Überwachung (Quellen-TKÜ) zu erhalten, bei der man
+an der Quelle den Trojaner einschleust und so noch vor der Verschlüsselung an die Kommunikationsinhalte
+zu gelangen gedenkt.
+
+
+Computerkriminalität
+
+Unter Computerkriminalität versteht man alle illegale Handlungen, die zum Hauptzweck oder
+unterstützend die Zuhilfenahme von Computer- und Kommunikationssystemen in Anspruch nehmen.
+Beispielsweise sind Datenklau (Kreditkartendaten, Passwörter etc.) oder das Infiltrieren 
+von fremden System sehr aktuelle Probleme, die die Gesellschaft als Ganzes betreffen.
+
+Datenschutz
+
+Mit Datenschutz ist der Schutz von privaten, personenbezogenen Daten, der im Gesetz verankert ist und
+der die Verwendung von solchen Daten genau definiert und einschränkt.
+So ist zum Beispiel die Wohnung einer Person ein Bereich der Privatsphäre, der
+nur unter sehr stark eingegrenzten Bedingungen betreten werden darf.
+Unter anderem gibt es auch noch das Briefgeheimnis, das es den Behörden grundsätzlich
+verbietet, den Inhalt der Briefpost zu besichtigen.
+Für gewisse Anwendungen kann der Datenschutz teilweise (z.B. bei der Strafverfolgung) oder
+ganz aufgehoben werden (Notstand).
+
+Key Recovery
+
+Eine Technik, die die Ermittlung eines Schlüssels zu einem verschlüsselten Text ermöglich, um
+so den Text zu entschlüsseln und in ein menschenlesbares Format zu bringen.
+
+Privatsphäre
+
+Bezeichnet einen nicht-öffentlichen Bereich, in dem ein Mensch sein Recht auf freie
+Entfaltung der Persönlichkeit ausüben kann und ist im Grundgesetz verankert. Dies betriff z.B. die Wohnung
+oder das Briefgeheimnis.
+Die Privatsphäre hat eine immer grösser werdende gesellschaftliche Bedeutung, da der technologische Fortschritt
+privaten und öffentlichen Institutionen immer mehr Möglichkeiten anbietet, die schiere Flut an Informationen
+auszuwerten, worunter natürlich auch viele unter den Bereich der Privatsphäre fallen.
+
+
+RFID
+
+Radio Frequency Identification (RFID) ist eine Technologie, mit der man Daten in Chips
+über Funk (kontaktlos)  auslesen kann. So werden z.B. Waren mit RFID-Chips versehen, um ihren
+Vertriebsweg mitverfolgen zu können. 
+In gewissen Ausprägungen von biometrischen Pässen sind RFID-Chips eingebaut, die 
+- schlechte Absicherung vorausgesetzt - auch von Leuten mit unehrlichen Absichten aus der Entfernung
+ausgelesen und die darauf befindlichen Daten zum Beispiel für Identitätsklau verwendet werden können.
